@@ -1,6 +1,6 @@
 # IBM Certifications App
 
-Web app that lets students enroll in various courses and earn certifications. Built with Spring Boot and Vue.js in a team of 4 during IBM Virtual Java Academy 2021. We were awarded the best team of the academy for building this app.
+Web app that lets students enroll in various courses and earn certifications. Built with Spring Boot and Vue.js in a team of 4 during IBM Virtual Java Academy 2021.
 
 ### Main features:
 - Supports three user roles: **student**, **manager** and **administrator**
